@@ -1,4 +1,4 @@
-# Node Js Starter #1: tectkbstrno1
+# Node Js Starter #1: tectkbstrnod1
 
 This starter covers the very basics of a Node.Js project.
 
