@@ -11,3 +11,9 @@ This starter covers the very basics of a Node.Js project.
 * Using variables to hold 'Hello World'
 * Using \r\n to end each line in the file
 
+## End of Module Challenge
+
+* Change the message displaying on the console to: The "Hello World" was appended to the file on {today's date}.
+* {today's date} above should come from a variable called "today", and it can be set using the function Date.now().
+* It will display how you would expect it to.  We will discuss why in the next lesson.
+
